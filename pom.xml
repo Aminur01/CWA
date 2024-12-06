@@ -161,6 +161,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>CwaApplication</finalName>
+		<finalName>cwaapplication</finalName>
 	</build>
 </project>
